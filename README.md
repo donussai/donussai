@@ -1,7 +1,7 @@
 ## Hi there! 👋
 ### Welcome to my GitHub profile✨
 
-I'm currently completing a Data Science Skills bootcamp.
+I'm currently completing a Data Science skills bootcamp.
 
 ![image](https://github.com/donussai/donussai/assets/163058921/9cce77fe-20a3-49e0-9dad-7b4a2c160c86)
 
